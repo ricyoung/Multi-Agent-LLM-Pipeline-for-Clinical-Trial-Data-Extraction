@@ -1,0 +1,4 @@
+NCTId,BriefTitle,Condition,InterventionType,InterventionName
+NCT01234567,Sample Brain Stimulation Study,Parkinson's Disease,Device,tDCS
+NCT02345678,Example Transcranial Stimulation Trial,Aging,Device,TMS
+NCT03456789,Noninvasive Brain Stimulation Study,Cognitive Impairment,Device,tACS
